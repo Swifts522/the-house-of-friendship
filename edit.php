@@ -109,7 +109,7 @@
                 width: 85%;
                 height: 95%;
                 left: 0%;
-                background-image: url(Home.png);
+                background-image: url(img/Home.png);
                 background-size: cover;
                 top: 0%;
                 left: 10%;
@@ -119,7 +119,7 @@
             #img3
             {
                 position: absolute;
-                background-image: url(logoru.png);
+                background-image: url(img/logoru.png);
                 width: 35.5%;
                 height: 19.7%;
                 display: block;
